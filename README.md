@@ -67,5 +67,5 @@ Les comptes AWS Academy ont des restrictions sur AWS KMS (permissions `kms:Creat
 
 ## 👤 Auteur
 
-**Kacim** — Étudiant ingénieur, ENSA Khouribga  
+**Mohamed Kacim EL AFI** — Étudiant ingénieur, ENSA Khouribga  
 GitHub : [@kandjcb](https://github.com/kandjcb)
