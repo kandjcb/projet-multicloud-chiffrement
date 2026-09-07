@@ -1,8 +1,7 @@
-# Partie 3 — Cloud KMS : AWS KMS & Azure Key Vault
+# Cloud KMS : AWS KMS & Azure Key Vault
 
 > Projet Multi-Cloud | Axe 2 : Mécanismes de cryptage, authentification et gestion des identités  
 > Sujet 5 : Mise en œuvre du chiffrement dans un environnement Multi-Cloud  
-> ENSA Khouribga — 2026
 
 ---
 
